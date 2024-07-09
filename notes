@@ -1,0 +1,3 @@
+miraw_data: select datasets taken from miraw repositories
+train_test_missingID: nucleotide sequences of binding sites matching miRNA, mRNA ids from miraw's allTraining
+train_test_full: binarized values of all binding sites [including missing sequence ids] to nucleotide sequences. Some sequence ids are NaN.
